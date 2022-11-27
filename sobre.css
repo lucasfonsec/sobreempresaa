@@ -1,0 +1,16 @@
+.logo-loja1{
+    width: 330px;
+    height: 200;
+ background-color: rgb(83, 96, 109);
+
+ }
+ @media screen and (max-width: 768px) {
+    nav li {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    footer p {
+        display: none;
+    }
+ }
